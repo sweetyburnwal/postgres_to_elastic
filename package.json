@@ -1,0 +1,32 @@
+{
+  "name": "postgres-to-elastic",
+  "version": "0.0.1",
+  "description": "Sync data from PostgreSQL to Elasticsearch",
+  "scripts": {
+    "build": "nest build",
+    "start": "nest start",
+    "start:dev": "nest start --watch",
+    "start:debug": "nest start --debug --watch"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.9.0",
+    "@nestjs/common": "^10.0.0",
+    "@nestjs/config": "^3.3.0",
+    "@nestjs/core": "^10.0.0",
+    "@nestjs/platform-express": "^10.0.0",
+    "@nestjs/schedule": "^3.0.1",
+    "@nestjs/typeorm": "^10.0.0",
+    "pg": "^8.11.1",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.1",
+    "typeorm": "^0.3.17",
+    "axios": "^0.27.2",
+    "class-transformer": "^0.5.1"
+
+  },
+  "devDependencies": {
+    "@nestjs/cli": "^10.1.11",
+    "@types/node": "^20.4.5",
+    "typescript": "^5.1.6"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"MainDbConfig.d.ts","sourceRoot":"","sources":["../../../../../src/db/clients/main/MainDbConfig.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,SAAS,CAAC;AAI5C,qBAAa,YAAY;IAChB,YAAY,CAAC,IAAI,EAAE,MAAM,EAAE;IAK3B,OAAO;IAIP,SAAS,IAAI,iBAAiB;CActC"}
